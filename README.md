@@ -1,1 +1,12 @@
-# python-testing-homework
+## Цель задания:  
+Изучить unittest и pytest, а также использовать их на практике.  
+
+## Описание файлов:  
+**test_with_unittest.py** - содержит практическое задание с тестами unittest  
+**test_with_pytest.py** - содержит практическое задание с тестами pytest  
+**average_unittest.py** - содержит код из теории с тестами unittest  
+**average_pytest.py** - содержит код из теории с тестами pytest  
+
+## Инструкция по запуску тестов:  
+Для запуска тестов unittest необходимо в терминале вписать python.exe -m unittest <название файла>.py  
+Для запуска тестов pytest необходимо в терминале вписать pytest.exe <название файла>.py
